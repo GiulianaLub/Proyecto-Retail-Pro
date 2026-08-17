@@ -47,13 +47,13 @@ DAX: creación de medidas con SUM, CALCULATE, TOTALYTD, SAMEPERIODLASTYEAR, VAR 
 Visualización: creación de matrices, KPIs y gráficos para analizar los resultados comerciales. 
 
 
-
-| Herramienta     | Uso                                |
-| --------------- | ---------------------------------- |
-| **SQL Server**  | Consultas y análisis de ventas     |
-| **Power Query** | Limpieza y transformación de datos |
-| **Power BI**    | Modelado, DAX y visualización      |
-| **GitHub**      | Versionado y documentación         |
+| Herramienta     | Uso en el proyecto                                                                                                                                                                 |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **SQL**         | Se utilizó para consultar y analizar los datos de ventas y obtener información relevante para el negocio.                                                                          |
+| **Power Query** | Se utilizó para limpiar, transformar y preparar los datos antes del análisis.                                                                                                      |
+| **Power BI**    | Se utilizó para transformar los resultados del análisis en un modelo de datos, crear indicadores y visualizaciones para facilitar la interpretación de los resultados comerciales. |
+| **DAX**         | Se utilizó para crear medidas e indicadores para el análisis de ventas y su evolución temporal.                                                                                    |
+| **GitHub**      | Se utilizó para almacenar, organizar y versionar los archivos y documentación del proyecto.                                                                                        |
 
  
 
